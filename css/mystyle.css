@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Nerko+One&display=swap');
+
+header{
+    width: 1440px;
+    background-color: #2a9d8f;
+    margin: auto;
+}
+.logo_link{
+    width: 46px;
+    height: 46px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+.logo{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    /* padding-left: 130px; */
+    margin-left: 130px;
+
+    
+}
+.nav_header{
+    
+    vertical-align: middle;
+    display: inline-block;
+    margin: 46px 130px 44px 704px;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.005em;
+    /* background-color: blueviolet; */
+    
+
+}
+li{
+    display: inline-block;
+}
+.active{
+    margin-inline: 80px;
+}
+.inactive{
+    color: #ffffff;
+    font-family: "Nerko One", cursive;
+}
+section{
+    width: 20000px;
+    background-color: #d4f3f0;
+    display: inline-block;
+    margin: auto;
+    vertical-align: middle;
+}
+.section_cover{
+    width: 600px;
+    height: 600px;
+    padding: 80px 7px 80px 130px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.section_H1{
+    font-family: "Kanit", sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.005em;
+    color: #06686e;
+}
+.section_text{
+    width: 550px;
+    height: 448px;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 55px 130px 112px 120px;
+    /* background-color: blue; */
+}
+.section_p{
+    font-family: "Kanit", sans-serif;
+size: 18px;
+font-style: italic;
+font-weight: 275;
+line-height: 27px;
+letter-spacing: 0.005em;
+width: 457px;
+height: 270px;
+padding-top: 32px;
+color: #06686e;
+}
+.button_section{
+    margin-top: 40px;
+    color: #ffffff;
+    background-color: #2a9d8f;
+    width: 112px;
+    height: 46px;
+}
+article{
+    width: 1180px;
+    margin: auto;
+    margin-top: 80px;
+}
+.article_h1{
+    font-family: "Kanit", sans-serif;
+font-size: 48px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0.005em;
+/* padding: 436px 0px 435px 248px; */
+/* background-color: blue; */
+text-align: center;
+color: #06686e;
+}
+.article_p{
+    font-family: "Kanit", sans-serif;
+font-size: 24px;
+font-weight: 275;
+line-height: 36px;
+letter-spacing: 0.005em;
+text-align: justify;
+padding-top: 32px;
+color: #06686e;
+}
+footer{
+    background-color: #2a9d8f;
+    width: 1440px;
+    margin-top: 80px;
+    margin: auto;
+    height: 150px;
+}
+.footer_H1{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    color: #ffffff;
+}
+.footer_nav{
+    width: 200px;
+    height: 19px;
+    /* padding: 40px 636px 38px 636px; */
+    /* margin: auto; */
+    margin: 40px 636px 38px 636px;
+
+}
+.instagram_class{
+    margin-inline: 32px;
+}
+.x_class{
+    margin-right: 36px;
+}
