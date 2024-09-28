@@ -123,9 +123,10 @@ color: #06686e;
 footer{
     background-color: #2a9d8f;
     width: 1440px;
-    margin-top: 80px;
+    /* margin-top: 80px; */
     margin: auto;
     height: 150px;
+    margin-top: 80px;
 }
 .footer_H1{
     text-align: center;
